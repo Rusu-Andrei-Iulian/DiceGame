@@ -1,0 +1,56 @@
+body {
+    margin:0;
+    background-color: #393E46;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 5rem;
+    color: #4ECCA3;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.btn{
+    text-align: center;
+}
+button{
+    font-size: 1.5rem;
+    margin-top: 2.5rem;
+    border-radius: 30px;
+    color: #4ECCA3;
+    background-color: #393E46;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 70%;
+}
+
+.container {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.img-p1{
+    margin-right: 3rem;
+}
+
+img {
+    width: 10%;
+}
+
+p {
+    display: inline-block;
+    font-size: 2.3rem;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #4ECCA3;
+}
+
+.p2{
+    margin: 0 40px 0;
+}
+
+.img-container{
+    text-align: center;
+}
